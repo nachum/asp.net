@@ -1,0 +1,19 @@
+﻿body {
+    background: #000000 url(../Images/images4.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+    body h2 {
+        color:darkorange;
+        
+    }
+#pers {
+    padding:10px;
+    margin:10px;
+    background-color:rgba(182, 255, 0,0.7);
+    width:300px;
+}
+#zone {
+    background-color:rgba(0,255,255,0.3);
+}

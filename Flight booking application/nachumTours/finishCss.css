@@ -1,0 +1,17 @@
+﻿body {
+    background: #000000 url(../Images/t2.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#booking h2 {
+    color:olive;
+    padding:15px;
+}
+#det {
+    background-color:lightblue;
+    height:auto;
+    width:300px;
+    margin:10px;
+    padding:10px;
+}

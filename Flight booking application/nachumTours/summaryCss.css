@@ -1,0 +1,85 @@
+﻿body {
+    background: #000000 url(../Images/t5.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#det {
+    border:dotted;
+    
+
+}
+    #det th {
+        border:solid;
+    }
+    #det td {
+        border:dotted;
+    }
+#all {
+    width:500px;
+
+}
+#leave {
+    width:150px;
+    float:left;
+    
+}
+#loc {
+    width:125px;
+   float:left;
+   
+}
+#air {
+    width:150px;
+    height:100px;
+    float:right;
+    
+}
+#airPic {
+    width:60px;
+    height:40px;
+}
+#prices {
+    width:500px;
+}
+#person {
+    width:200px;
+    float:left;
+    
+}
+    #person p {
+        color:blue;
+    }
+#prColor {
+    color:purple;
+    font-size:16px;
+}
+#perPic {
+    width:30px;
+    float:left;
+}
+#perDet {
+    width:150px;
+    float:right;
+}
+#child {
+    width:190px;
+    float:left;
+}
+#child p {
+        color:blue;
+    }
+#chilPic {
+    width:30px;
+    float:left;
+}
+#total {
+    float:right;
+    width:100px;
+    color:red;
+    font-size:16px;
+}
+#total p {
+        color:blue;
+        font-size:14px;
+    }

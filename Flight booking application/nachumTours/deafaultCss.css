@@ -1,0 +1,75 @@
+﻿
+body{
+background: #000000 url(../Images/Space-HD.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#direct {
+    display: inline;
+    padding-left:6px;
+}
+#booking {
+    width:600px;
+    height:auto;
+    background-color:rgba(75,0,130,0.7);;
+	float:left;
+}
+#from p {
+    color:white;
+}
+#from {
+
+    padding-left: 10px;
+        height: 50px;
+        width: 590px;
+}
+#fromL {
+float: left;
+width:304px;
+}
+#toR {
+float:left;
+width:200px;
+}
+#to {
+    padding-left:10px;
+     height: 50px;
+     width: 600px;
+}
+#dateL{
+float:left;
+width:290px;
+}
+#dateR{
+float:right;
+width:290px;
+}
+#to p {
+    color:white;
+}
+#searchButton {
+    display: inline;
+    height: 50px;
+    width: 450px;
+    padding-left:10px;
+}
+#people {
+	padding-left:10px;
+    color:white;
+    display: inline;
+    height: 50px;
+    width: 450px;
+}
+#allPage
+{
+width:1000px;
+}
+#range{
+background-color:rgba(127,255,212,0.7);
+width:360px;
+float:right;
+height:auto;
+padding:10px;
+}
+

@@ -1,0 +1,62 @@
+﻿body {
+    background: #000000 url(../Images/t6.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#table2 {
+    padding:10px;
+}
+#MainContent_trying {
+    color:blue;
+    
+}
+#resultFlights {
+    background:orange;
+}
+#fl {
+    border:1px;
+     
+}
+.headLine {
+    background-color:#D0D0D0 ;
+    padding:10px;
+}
+.bodyColors {
+  
+}
+
+ #fl th {
+        padding: 3px 7px 2px 7px;
+        text-align: left;
+        border:solid;
+		}
+#fl td {
+    padding: 3px 7px 2px 7px;
+    width:170px;
+        text-align: left;
+        font-size:smaller;
+        border-top:dotted;
+        border-top:dotted;
+        
+}
+#fl tr td:last-child {
+    width:auto;
+    border-right:hidden;
+    background-color:none;
+}
+#all {
+    width:200px;
+}
+#le {
+    float:left;
+    width:100px;
+}
+#ri {
+    float:right;
+    width:90px;
+}
+#bo {
+    float:left;
+    width:auto;
+}

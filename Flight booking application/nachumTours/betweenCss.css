@@ -1,0 +1,15 @@
+﻿body {
+    background: #000000 url(../Images/Airplane-sunset.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#betPrices{
+padding:10px;
+margin:10px;
+background-color:lightgreen;
+width:350px;
+}
+#pad {
+    padding:10px;
+}

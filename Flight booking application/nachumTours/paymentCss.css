@@ -1,0 +1,48 @@
+﻿body {
+    background: #000000 url(../Images/GOLD-COINS1.jpg) no-repeat top center fixed; 
+background-size:100%; 
+height:auto; 
+min-height:100%;
+}
+#checking {
+    padding:10px;
+    width:350px;
+    background-color:rgba(255,255,255,0.8);
+}
+#bill {
+    width:480px;
+    background-color:rgba(255,165,44,0.8);
+    padding:10px;
+    
+}
+#card {
+    display:inline;
+    float:left;
+    width:100%;
+}
+   
+#bill h5, #bill p {
+    display: inline;
+}
+#bill h5 {
+    color: red;
+}
+#cardNumbers {
+    width:480px;
+}
+#cardNum {
+    float:left;
+    width:270px;
+}
+#secCode {
+float:left;
+width:200px;
+}
+#expire h5, #expire p {
+    display: inline;
+}
+#back {
+    padding:10px;
+    margin:10px;
+    background-color:rgba(255,255,255,0.7);
+}
